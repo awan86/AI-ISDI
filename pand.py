@@ -1,0 +1,13 @@
+# import pandas as pd
+# r=pd.Series([1,2,3,4,5])
+# print(r)
+# r=pd.DataFrame([1,2,3,4,5])
+# print(r)
+# r=pd.DataFrame({'Name':['Alice','Bob','Charlie'],'Age':[25,30,35],'City':['New York','Los Angeles','Chicago']})
+# print(r)
+# a=pd.Series([1,2,3])
+# print(a)
+# a=pd.DataFrame([1,2,3])
+# print(a)
+# avg_marks=r.mean()
+# print(avg_marks)
